@@ -1,0 +1,12 @@
+{
+  "name": "food-order-status-red",
+  "version": "2.0.0",
+  "description": "Red upgraded version of food order service",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

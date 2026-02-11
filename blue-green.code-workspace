@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "blue-green",
+			"path": "."
+		},
+		{
+			"name": "blue-app",
+			"path": "../blue-app"
+		},
+		{
+			"name": "Red_app",
+			"path": "../Red_app"
+		}
+	],
+	"settings": {}
+}
