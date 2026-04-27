@@ -11,14 +11,14 @@ This project demonstrates a blue-green deployment strategy using AWS ECS to achi
 * Terraform (Infrastructure as Code)
 * Node.js (Application Layer)
 * Python (Machine Learning)
-* GitHub Actions (CI/CD)
+* Jenkin (CI/CD)
 
 ## Features
 
 * Blue-green deployment strategy for zero downtime
 * Infrastructure provisioning using Terraform
 * Containerized application deployment on ECS
-* CI/CD pipeline using GitHub Actions
+* CI/CD pipeline using jenkin
 * Basic machine learning model for workload prediction
 * Modular and scalable architecture
 
@@ -54,7 +54,7 @@ The model is designed to simulate workload prediction, which can be extended for
 ## CI/CD Workflow
 
 * Code is pushed to GitHub
-* GitHub Actions pipeline is triggered
+* Jenkin pipeline is triggered
 * Application is built and deployed to ECS
 * New version is deployed in green environment
 * Traffic can be switched after validation
