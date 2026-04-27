@@ -1,0 +1,13 @@
+{
+  "name": "food-order-status-blue",
+  "version": "1.0.0",
+  "description": "Blue version of food order status service",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.22.1",
+    "python-shell": "^5.0.0"
+  }
+}
